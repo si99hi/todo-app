@@ -9,3 +9,7 @@ A simple React Native Todo application.
 </p>
 
 
+## Features
+- Add tasks
+- Delete tasks
+- Simple clean UI
